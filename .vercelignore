@@ -1,0 +1,14 @@
+.env
+.env.*
+.git
+.github
+.vscode
+.idea
+node_modules
+vendor
+tests
+storage/logs
+storage/framework
+README.md
+AGENTS.md
+CLAUDE.md

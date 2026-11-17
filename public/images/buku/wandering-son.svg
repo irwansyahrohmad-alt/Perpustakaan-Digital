@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Sampul Wandering Son">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#b24c7d"/><stop offset="1" stop-color="#4d1735"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.62"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<g><circle cx="165.0" cy="225.0" r="95.0" fill="#ffd1e3" fill-opacity="0.55" /><circle cx="238.0" cy="225.0" r="95.0" fill="#ffffff" fill-opacity="0.35" /><circle cx="200.0" cy="225.0" r="30.0" fill="#ffffff" fill-opacity="0.75" /><circle cx="310.0" cy="90.0" r="16.0" fill="#ffd1e3" fill-opacity="0.9" /><circle cx="80.0" cy="340.0" r="12.0" fill="#ffffff" fill-opacity="0.6" /></g>
+<rect y="340" width="400" height="260" fill="url(#fade)"/>
+<text x="38" y="472.5" font-size="46.0" font-weight="700" fill="#fff" font-family="Georgia, 'Times New Roman', serif">Wandering</text><text x="38" y="524.0" font-size="46.0" font-weight="700" fill="#fff" font-family="Georgia, 'Times New Roman', serif">Son</text>
+<text x="38" y="562" font-size="19" fill="#fff" fill-opacity="0.9" font-family="Arial, Helvetica, sans-serif">Takako Shimura</text>
+<rect x="38" y="574" width="64" height="4" fill="#e0a526"/>
+<rect width="14" height="600" fill="#000" fill-opacity="0.30"/>
+<rect x="14" width="2" height="600" fill="#fff" fill-opacity="0.14"/>
+</svg>

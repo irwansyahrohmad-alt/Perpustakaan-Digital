@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Sampul We">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#1a4d4a"/><stop offset="1" stop-color="#06201f"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.62"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<g><rect x="60.0" y="85.0" width="280.0" height="280.0" rx="0" fill="#ffffff" fill-opacity="0.04" stroke="#8ff0e0" stroke-width="2.2"/><rect x="79.0" y="104.0" width="242.0" height="242.0" rx="0" fill="#ffffff" fill-opacity="0.055" stroke="#8ff0e0" stroke-width="2.2"/><rect x="98.0" y="123.0" width="204.0" height="204.0" rx="0" fill="#ffffff" fill-opacity="0.07" stroke="#8ff0e0" stroke-width="2.2"/><rect x="117.0" y="142.0" width="166.0" height="166.0" rx="0" fill="#ffffff" fill-opacity="0.08499999999999999" stroke="#8ff0e0" stroke-width="2.2"/><rect x="136.0" y="161.0" width="128.0" height="128.0" rx="0" fill="#ffffff" fill-opacity="0.1" stroke="#8ff0e0" stroke-width="2.2"/><rect x="155.0" y="180.0" width="90.0" height="90.0" rx="0" fill="#ffffff" fill-opacity="0.11499999999999999" stroke="#8ff0e0" stroke-width="2.2"/><rect x="174.0" y="199.0" width="52.0" height="52.0" rx="0" fill="#ffffff" fill-opacity="0.13" stroke="#8ff0e0" stroke-width="2.2"/><rect x="190.0" y="215.0" width="20.0" height="20.0" rx="0" fill="#8ff0e0" fill-opacity="1"/><line x1="60.0" y1="85.0" x2="340.0" y2="365.0" stroke="#8ff0e0" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/><line x1="340.0" y1="85.0" x2="60.0" y2="365.0" stroke="#8ff0e0" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/></g>
+<rect y="340" width="400" height="260" fill="url(#fade)"/>
+<text x="38" y="524.0" font-size="46.0" font-weight="700" fill="#fff" font-family="Georgia, 'Times New Roman', serif">We</text>
+<text x="38" y="562" font-size="19" fill="#fff" fill-opacity="0.9" font-family="Arial, Helvetica, sans-serif">Yevgeny Zamyatin</text>
+<rect x="38" y="574" width="64" height="4" fill="#e0a526"/>
+<rect width="14" height="600" fill="#000" fill-opacity="0.30"/>
+<rect x="14" width="2" height="600" fill="#fff" fill-opacity="0.14"/>
+</svg>

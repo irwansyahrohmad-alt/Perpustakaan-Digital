@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Sampul Witch Hat Atelier">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#4b2a6b"/><stop offset="1" stop-color="#1a0d2b"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.62"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<g><circle cx="200.0" cy="235.0" r="125.0" fill="none" fill-opacity="0.9" stroke="#f0c25a" stroke-width="3" /><path d="M200.0 110.0 L273.5 336.1 L81.1 196.4 L318.9 196.4 L126.5 336.1 L200.0 110.0" fill="none" fill-opacity="0.7" stroke="#f0c25a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><polygon points="138.0,262.0 205.0,85.0 262.0,262.0" fill="#1a0d2b" fill-opacity="0.95"/><ellipse cx="200.0" cy="262.0" rx="100.0" ry="24.0" fill="#1a0d2b" fill-opacity="1" /><rect x="150.0" y="236.0" width="100.0" height="14.0" rx="0" fill="#f0c25a" fill-opacity="1"/><circle cx="95.0" cy="120.0" r="4.0" fill="#f0c25a" fill-opacity="1" /><circle cx="310.0" cy="150.0" r="4.0" fill="#f0c25a" fill-opacity="1" /><circle cx="330.0" cy="300.0" r="4.0" fill="#f0c25a" fill-opacity="1" /><circle cx="80.0" cy="310.0" r="4.0" fill="#f0c25a" fill-opacity="1" /></g>
+<rect y="340" width="400" height="260" fill="url(#fade)"/>
+<text x="38" y="472.5" font-size="46.0" font-weight="700" fill="#fff" font-family="Georgia, 'Times New Roman', serif">Witch Hat</text><text x="38" y="524.0" font-size="46.0" font-weight="700" fill="#fff" font-family="Georgia, 'Times New Roman', serif">Atelier</text>
+<text x="38" y="562" font-size="19" fill="#fff" fill-opacity="0.9" font-family="Arial, Helvetica, sans-serif">Kamome Shirahama</text>
+<rect x="38" y="574" width="64" height="4" fill="#e0a526"/>
+<rect width="14" height="600" fill="#000" fill-opacity="0.30"/>
+<rect x="14" width="2" height="600" fill="#fff" fill-opacity="0.14"/>
+</svg>

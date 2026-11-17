@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Sampul Nausicaä of the Valley of the Wind">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#1f6f6b"/><stop offset="1" stop-color="#0b3532"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.62"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<g><circle cx="300.0" cy="95.0" r="42.0" fill="#f4d35e" fill-opacity="0.85" /><polygon points="0.0,395.0 80.0,300.0 150.0,360.0 250.0,275.0 330.0,350.0 400.0,300.0 400.0,395.0" fill="#0b3532" fill-opacity="0.55"/><polygon points="110.0,175.0 295.0,140.0 190.0,210.0" fill="#ffffff" fill-opacity="0.95"/><line x1="190.0" y1="210.0" x2="190.0" y2="250.0" stroke="#ffffff" stroke-width="4" stroke-opacity="1" stroke-linecap="round"/><line x1="150.0" y1="160.0" x2="190.0" y2="210.0" stroke="#0b3532" stroke-width="2" stroke-opacity="0.5" stroke-linecap="round"/><circle cx="348.0" cy="295.0" r="4.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="213.0" cy="365.0" r="2.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="268.0" cy="293.0" r="4.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="56.0" cy="270.0" r="2.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="220.0" cy="350.0" r="2.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="224.0" cy="369.0" r="2.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="323.0" cy="293.0" r="2.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="140.0" cy="334.0" r="3.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="123.0" cy="329.0" r="2.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="66.0" cy="265.0" r="4.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="346.0" cy="343.0" r="2.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="97.0" cy="230.0" r="2.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="137.0" cy="285.0" r="2.0" fill="#f4d35e" fill-opacity="0.7" /><circle cx="115.0" cy="304.0" r="3.0" fill="#f4d35e" fill-opacity="0.7" /></g>
+<rect y="340" width="400" height="260" fill="url(#fade)"/>
+<text x="38" y="432.3" font-size="40.9" font-weight="700" fill="#fff" font-family="Georgia, 'Times New Roman', serif">Nausicaä</text><text x="38" y="478.1" font-size="40.9" font-weight="700" fill="#fff" font-family="Georgia, 'Times New Roman', serif">of the Valley</text><text x="38" y="524.0" font-size="40.9" font-weight="700" fill="#fff" font-family="Georgia, 'Times New Roman', serif">of the Wind</text>
+<text x="38" y="562" font-size="19" fill="#fff" fill-opacity="0.9" font-family="Arial, Helvetica, sans-serif">Hayao Miyazaki</text>
+<rect x="38" y="574" width="64" height="4" fill="#e0a526"/>
+<rect width="14" height="600" fill="#000" fill-opacity="0.30"/>
+<rect x="14" width="2" height="600" fill="#fff" fill-opacity="0.14"/>
+</svg>

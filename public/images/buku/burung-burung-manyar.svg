@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Sampul Burung-Burung Manyar">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#7a5a1a"/><stop offset="1" stop-color="#2b1e08"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.62"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<g><path d="M30 100 Q200 70 380 130" fill="none" fill-opacity="0.9" stroke="#1e1206" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" /><line x1="105.0" y1="90.0" x2="105.0" y2="145.0" stroke="#1e1206" stroke-width="4" stroke-opacity="1" stroke-linecap="round"/><ellipse cx="105.0" cy="200.0" rx="30.0" ry="52.0" fill="#f2c94c" fill-opacity="0.95" /><circle cx="105.0" cy="225.0" r="8.0" fill="#2b1e08" fill-opacity="1" /><path d="M85 170 q20 12 40 0" fill="none" fill-opacity="0.5" stroke="#2b1e08" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><line x1="200.0" y1="85.0" x2="200.0" y2="140.0" stroke="#1e1206" stroke-width="4" stroke-opacity="1" stroke-linecap="round"/><ellipse cx="200.0" cy="195.0" rx="30.0" ry="52.0" fill="#f2c94c" fill-opacity="0.95" /><circle cx="200.0" cy="220.0" r="8.0" fill="#2b1e08" fill-opacity="1" /><path d="M180 165 q20 12 40 0" fill="none" fill-opacity="0.5" stroke="#2b1e08" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><line x1="290.0" y1="105.0" x2="290.0" y2="160.0" stroke="#1e1206" stroke-width="4" stroke-opacity="1" stroke-linecap="round"/><ellipse cx="290.0" cy="215.0" rx="30.0" ry="52.0" fill="#f2c94c" fill-opacity="0.95" /><circle cx="290.0" cy="240.0" r="8.0" fill="#2b1e08" fill-opacity="1" /><path d="M270 185 q20 12 40 0" fill="none" fill-opacity="0.5" stroke="#2b1e08" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><ellipse cx="335.0" cy="122.0" rx="22.0" ry="16.0" fill="#f2c94c" fill-opacity="1" /><circle cx="352.0" cy="112.0" r="11.0" fill="#f2c94c" fill-opacity="1" /><polygon points="361.0,111.0 376.0,116.0 361.0,121.0" fill="#ffffff" fill-opacity="1"/><circle cx="354.0" cy="110.0" r="2.5" fill="#2b1e08" fill-opacity="1" /></g>
+<rect y="340" width="400" height="260" fill="url(#fade)"/>
+<text x="38" y="478.1" font-size="40.9" font-weight="700" fill="#fff" font-family="Georgia, 'Times New Roman', serif">Burung-Burung</text><text x="38" y="524.0" font-size="40.9" font-weight="700" fill="#fff" font-family="Georgia, 'Times New Roman', serif">Manyar</text>
+<text x="38" y="562" font-size="19" fill="#fff" fill-opacity="0.9" font-family="Arial, Helvetica, sans-serif">Y.B. Mangunwijaya</text>
+<rect x="38" y="574" width="64" height="4" fill="#e0a526"/>
+<rect width="14" height="600" fill="#000" fill-opacity="0.30"/>
+<rect x="14" width="2" height="600" fill="#fff" fill-opacity="0.14"/>
+</svg>

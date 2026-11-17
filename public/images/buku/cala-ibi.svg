@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Sampul Cala Ibi">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#0f5f7a"/><stop offset="1" stop-color="#06232e"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.62"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<g><circle cx="305.0" cy="105.0" r="46.0" fill="#ffb347" fill-opacity="0.95" /><polygon points="60.0,335.0 180.0,150.0 222.0,150.0 340.0,335.0" fill="#06232e" fill-opacity="0.9"/><polygon points="180.0,150.0 200.0,175.0 222.0,150.0" fill="#ffb347" fill-opacity="0.95"/><circle cx="215.0" cy="120.0" r="18.0" fill="#ffffff" fill-opacity="0.35" /><circle cx="232.0" cy="90.0" r="24.0" fill="#ffffff" fill-opacity="0.25" /><rect x="0.0" y="335.0" width="400.0" height="65.0" rx="0" fill="#0f8fb0" fill-opacity="0.55"/><path d="M0 355 Q50 345 100 355 T200 355 T300 355 T400 355" fill="none" fill-opacity="0.6" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><path d="M0 378 Q50 368 100 378 T200 378 T300 378 T400 378" fill="none" fill-opacity="0.4" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /></g>
+<rect y="340" width="400" height="260" fill="url(#fade)"/>
+<text x="38" y="524.0" font-size="46.0" font-weight="700" fill="#fff" font-family="Georgia, 'Times New Roman', serif">Cala Ibi</text>
+<text x="38" y="562" font-size="19" fill="#fff" fill-opacity="0.9" font-family="Arial, Helvetica, sans-serif">Nukila Amal</text>
+<rect x="38" y="574" width="64" height="4" fill="#e0a526"/>
+<rect width="14" height="600" fill="#000" fill-opacity="0.30"/>
+<rect x="14" width="2" height="600" fill="#fff" fill-opacity="0.14"/>
+</svg>

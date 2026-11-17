@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Sampul Gosick">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#5a1a3a"/><stop offset="1" stop-color="#220815"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.62"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<g><rect x="0.0" y="0.0" width="400.0" height="400.0" rx="0" fill="#000" fill-opacity="0.0"/><path d="M120 395 V215 A80 80 0 0 1 280 215 V395 Z" fill="#0d0508" fill-opacity="0.7" stroke="#f0c25a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" /><line x1="200.0" y1="135.0" x2="200.0" y2="395.0" stroke="#f0c25a" stroke-width="4" stroke-opacity="0.8" stroke-linecap="round"/><line x1="120.0" y1="265.0" x2="280.0" y2="265.0" stroke="#f0c25a" stroke-width="4" stroke-opacity="0.8" stroke-linecap="round"/><line x1="120.0" y1="330.0" x2="280.0" y2="330.0" stroke="#f0c25a" stroke-width="4" stroke-opacity="0.8" stroke-linecap="round"/><circle cx="200.0" cy="215.0" r="26.0" fill="none" fill-opacity="0.9" stroke="#f0c25a" stroke-width="4" /><circle cx="310.0" cy="90.0" r="30.0" fill="#ffffff" fill-opacity="0.85" /><circle cx="322.0" cy="82.0" r="26.0" fill="#220815" fill-opacity="1" /></g>
+<rect y="340" width="400" height="260" fill="url(#fade)"/>
+<text x="38" y="524.0" font-size="46.0" font-weight="700" fill="#fff" font-family="Georgia, 'Times New Roman', serif">Gosick</text>
+<text x="38" y="562" font-size="19" fill="#fff" fill-opacity="0.9" font-family="Arial, Helvetica, sans-serif">Kazuki Sakuraba</text>
+<rect x="38" y="574" width="64" height="4" fill="#e0a526"/>
+<rect width="14" height="600" fill="#000" fill-opacity="0.30"/>
+<rect x="14" width="2" height="600" fill="#fff" fill-opacity="0.14"/>
+</svg>
